@@ -1,0 +1,7 @@
+
+            Marca: Tesla
+            Modelo: Model 3
+            anio: 2019
+            numero_puertas: 5
+
+            
