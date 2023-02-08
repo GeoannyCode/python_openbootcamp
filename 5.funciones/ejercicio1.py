@@ -17,6 +17,6 @@ base = int(input())
 print("Círculo: radio")
 radio = float(input())
 
-print( "El área del triangulo es: "+ str(area_triangulo(altura,base)))
-print("El área del círculo es: "+ str(area_circulo(radio)))
+print( "El área del triangulo es igual a: "+ str(area_triangulo(altura,base)))
+print("El área del círculo es igual a: "+ str(area_circulo(radio)))
 
